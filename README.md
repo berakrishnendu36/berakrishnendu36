@@ -1,4 +1,8 @@
+<!--<div align='center'>
+  <img align='center' src="https://raw.githubusercontent.com/berakrishnendu36/berakrishnendu36/main/hero.gif">
+</div>
+-->
+### Hi there,
 <div align='center'>
-  <img src="https://raw.githubusercontent.com/berakrishnendu36/berakrishnendu36/main/header.gif" width="100%" height="100px" style="object-fit:contain;margin-bottom:50px;">
-  <img src="https://raw.githubusercontent.com/berakrishnendu36/berakrishnendu36/main/hero.gif" width="100%">
+  <b>Welcome to my profile</b>
 </div>
