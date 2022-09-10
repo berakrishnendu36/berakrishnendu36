@@ -1,6 +1,6 @@
 <h1 align="left">Hey there, I'm Krishnendu 👋</h1>
 
-Junior @ Dept. of Computer Science and Technology, IIEST, Shibpur
+Senior @ Dept. of Computer Science and Technology, IIEST, Shibpur
 <br>
 <p align="left" style="margin-top:20px;">
 
