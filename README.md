@@ -8,7 +8,7 @@ Junior @ Dept. of Computer Science and Technology, IIEST, Shibpur
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img>
 </a>
 
-<a href="https://drive.google.com/file/d/1vjGF3qZyT0emYprc88Uc8fzupZipPtTa/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1OV42MJF1qnmbE8WID1dzrDF_Jzpz_sET/view?usp=sharing">
 <img src="https://img.shields.io/badge/resume-pdf-%23181717.svg?&style=for-the-badge&logoColor=white">
 </img>
 </a>
