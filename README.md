@@ -1,6 +1,7 @@
 <h1 align="left">Hey there, I'm Krishnendu 👋</h1>
 
-Software Engineer @ Wells Fargo
+Software Engineer @ Wells Fargo  
+  
 Graduate @ Dept. of Computer Science and Technology, IIEST, Shibpur (Batch of 2k23)
 <br>
 <p align="left" style="margin-top:20px;">
