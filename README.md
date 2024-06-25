@@ -21,6 +21,6 @@ Graduate @ Dept. of Computer Science and Technology, IIEST, Shibpur (Batch of 2k
 
 </p>
 
- - 📝 Languages: **Python, Javascript, Dart, C++.**
- - 💻 Frameworks: **ReactJs, VueJs, NodeJs, ExpressJs, Flutter, Bootstrap, Tailwindcss.**
+ - 📝 Languages: **Python, Javascript, Dart, C++., Java**
+ - 💻 Frameworks: **ReactJs, VueJs, NodeJs, ExpressJs, Flutter, Spring, Bootstrap, Tailwindcss.**
  - 📑 Databases - **MongoDB, Firebase**
