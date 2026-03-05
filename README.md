@@ -2,7 +2,7 @@
 
 Software Engineer @ Wells Fargo  
   
-Graduate @ Dept. of Computer Science and Technology, IIEST, Shibpur (Batch of 2k23)
+UG @ Dept. of Computer Science and Technology, IIEST, Shibpur (Batch of 2k23)
 <br>
 <p align="left" style="margin-top:20px;">
 
